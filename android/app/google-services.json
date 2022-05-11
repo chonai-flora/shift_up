@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803201170386",
+    "project_id": "shift-up-3ea0b",
+    "storage_bucket": "shift-up-3ea0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803201170386:android:9efcf71242e2cd94aea60b",
+        "android_client_info": {
+          "package_name": "com.shift_up.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803201170386-m0ios887os3en5qgcn7d1air2c4orrjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMk5M93YX20yosZDAuy1InuMFYhITZEoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803201170386-m0ios887os3en5qgcn7d1air2c4orrjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
